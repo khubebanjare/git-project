@@ -9,8 +9,6 @@ public class GitProjectTest {
 		add(10, 20);
 	}
 	
-	//I have added new setter and getter method and constructor and to string 
-	
 	public static int add(int a, int b) {
 		return a + b;
 	}
